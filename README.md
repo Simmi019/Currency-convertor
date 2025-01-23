@@ -1,4 +1,6 @@
-Currency Converter
+# LIVE URL: https://simmi019.github.io/Currency-convertor/
+
+# CURRENCY CONVERTER
 
 A simple web-based currency converter application that fetches exchange rates from a remote API and allows users to convert between various currencies.
 
