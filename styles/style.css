@@ -6,6 +6,11 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #dd8787;
+    background-image: url('/images/currency.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
 }
 .container {
     background-color: white;
