@@ -40,10 +40,6 @@ API Parameters
 * `base` - The base currency (e.g., EUR, USD, GBP)
 * `symbols` - The symbol for the currency (e.g., EUR for Euro, USD for US Dollar)
 
-License
-
-This project is licensed under the MIT License. See LICENSE.txt for details.
-
 Acknowledgments
 
 * ExchangeRate-API for providing the exchange rate data
